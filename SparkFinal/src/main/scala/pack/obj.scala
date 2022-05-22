@@ -9,6 +9,8 @@ object obj {
     
     println("===2===")
     
+    println("===3====")
+    
   }
   
 }
